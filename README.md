@@ -36,7 +36,7 @@ Mobile :
 ### Links
 
 - Solution URL: [Github](https://github.com/jasonamey/job-listings)
-- Live Site URL: [Hosted by Vercel](https://static-jobs-listings-app.web.app/)
+- Live Site URL: [Hosted by Firebase](https://static-jobs-listings-app.web.app/)
 
 ## Built With
 
