@@ -36,5 +36,8 @@ const TagFilterWrapper = styled.section`
     font-size: 10px;
     font-weight: 700;
     cursor: pointer;
+    &:hover {
+      border-bottom: 1px solid var(--dark-cyan);
+    }
   }
 `;

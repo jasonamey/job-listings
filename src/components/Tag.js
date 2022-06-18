@@ -22,7 +22,6 @@ const TagWrapper = styled.button`
   font-size: 10px;
   font-weight: 700;
   border-radius: 3px;
-
   color: var(--dark-cyan);
   background-color: var(--light-gray-cyan);
   cursor: pointer;
@@ -36,6 +35,13 @@ const TagWrapper = styled.button`
     padding: 6px 8px 4px 8px;
     color: var(--dark-cyan);
     background-color: var(--light-gray-cyan);
+    &:hover {
+      background-color: var(--dark-cyan);
+      color: var(--light-gray-cyan);
+    }
+    &:hover + .tag-cancel {
+      background-color: var(--x-dark-gray-cyan);
+    }
   }
   .tag-cancel {
     height: 100%;
@@ -44,6 +50,10 @@ const TagWrapper = styled.button`
     align-items: center;
     background-color: var(--dark-cyan);
     color: var(--light-gray-cyan);
+    cursor: pointer;
+    &:hover {
+      background-color: var(--x-dark-gray-cyan);
+    }
   }
 `;
 

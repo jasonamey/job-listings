@@ -33,7 +33,7 @@ function Job(props) {
               {featured && <Badge content={"featured"} newJob={false} />}
             </div>
             <div className="row-2">
-              <h4>{position}</h4>
+              <h1>{position}</h1>
             </div>
             <div className="row-3">
               {postedAt}
@@ -83,8 +83,15 @@ const JobWrapper = styled.article`
     }
     .row-2 {
       font-size: 12px;
-      color: var(--dark-cyan);
       font-weight: 700;
+      h1 {
+        cursor: pointer;
+        font-size: 12px;
+        color: var(--x-dark-gray-cyan);
+        &:hover {
+          color: var(--dark-cyan);
+        }
+      }
     }
     .row-3 {
       font-size: 11px;
