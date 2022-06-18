@@ -1,6 +1,6 @@
 # Frontend Mentor - Devjobs Web App
 
-This is a solution to the [Devjobs Web App](https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Static Job Listings with Filtering](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt/hub/job-listings-with-filtering-piTBY7cX9) challenge. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,41 +17,31 @@ This is a solution to the [Devjobs Web App](https://www.frontendmentor.io/challe
 
 Your users should be able to:
 
-- View the optimal layout for each page depending on their device's screen size
-- See hover states for all interactive elements throughout the site
-- Be able to filter jobs on the index page by title, location, and whether a job is for a full-time position
-- Be able to click a job from the index page so that they can read more information and apply for the job
-- Bonus: Have the correct color scheme chosen for them based on their computer preferences. Hint: Research prefers-color-scheme in CSS.
-- Bonus: Build this project as a full-stack application
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Filter job listings based on the categories selected
 
 ### Screenshot
 
 Desktop :
 
-<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/devjobs-app%2Fscreenshots%2Fresized-1.png?alt=media&token=3b78a923-1501-4a2c-bfc6-a90242806714"  width="80%">
+<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fstatic-jobs-site%2FScreen%20Shot%202022-06-17%20at%203.51.42%20PM.png?alt=media&token=8115a1de-8f74-43f2-938d-cb8578fc1e33"  width="80%">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/devjobs-app%2Fscreenshots%2Fresize-2.png?alt=media&token=f2aca12b-35a8-4a1d-b5a7-114e4191bb5b"  width="80%">
-
-<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/devjobs-app%2Fscreenshots%2Fresize-4.png?alt=media&token=11277dec-cc41-4de4-add6-14ddcec36e62"  width="80%">
-
-Tablet :
-
-<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/devjobs-app%2Fscreenshots%2Fresize-3.png?alt=media&token=affb5337-3834-4c85-bc86-1702cfe42e01"  width="50%">
+<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fstatic-jobs-site%2FScreen%20Shot%202022-06-17%20at%203.52.02%20PM.png?alt=media&token=b6df781a-ef88-4633-925c-4920670b5af0"  width="80%">
 
 Mobile :
 
-<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/devjobs-app%2Fscreenshots%2Fresize-7.png?alt=media&token=a21bb412-2820-4934-9393-0d2ab7a9df72"  width="30%">
+<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fstatic-jobs-site%2FScreen%20Shot%202022-06-17%20at%203.52.39%20PM.png?alt=media&token=dea68ff1-4886-4b85-9372-c3eee25c0d18"  width="30%">
 
 ### Links
 
-- Solution URL: [Github](https://github.com/jasonamey/dev-jobs)
-- Live Site URL: [Hosted by Vercel](https://dev-jobs-phi.vercel.app/)
+- Solution URL: [Github](https://github.com/jasonamey/job-listings)
+- Live Site URL: [Hosted by Vercel](https://static-jobs-listings-app.web.app/)
 
 ## Built With
 
-- NextJs
-- MongoDB Atlas
-- @emotion/css
+- ReactJs
+- Styled Components
 
 ## Author
 
