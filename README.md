@@ -1,4 +1,4 @@
-# Frontend Mentor - Devjobs Web App
+# Frontend Mentor - Static Job Listings with Filtering
 
 This is a solution to the [Static Job Listings with Filtering](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt/hub/job-listings-with-filtering-piTBY7cX9) challenge. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
