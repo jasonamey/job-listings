@@ -40,7 +40,7 @@ Mobile :
 
 ## Built With
 
-- ReactJs
+- React
 - Styled Components
 
 ## Author
